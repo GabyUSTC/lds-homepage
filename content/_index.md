@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        Lab for Data Science
+      # image:
+      #   filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The mission of **LDS** is to conduct cutting-edge research that can better "understand and analyze actual phenomena" from data. We work closely on the research fields of information retrieval (SIGIR, WWW, CIKM), data mining (KDD, WSDM), natural language processing (ACL, EMNLP), machine learning (NeurIPS, ICML, ICLR), multimedia (ACM MM, CVPR, ICCV), and more generally, artificial intelligence (AAAI, IJCAI). Current research interests are primarily on deep learning, graph learning, meta learning, and causal inference, with particular applications on recommender systems, dialog systems, knowledge graphs, and financial technologies (Fintech). 
   
   - block: collection
     content:
