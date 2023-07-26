@@ -5,23 +5,23 @@
 
 main:
   - name: Home
-    url: tour
+    url: tour.html
     weight: 10
   - name: News
-    url: post
+    url: post.html
     weight: 20
   - name: People
-    url: people
+    url: people.html
     weight: 30
   - name: Publications
-    url: publication
+    url: publication.html
     weight: 40
   - name: Projects
-    url: project
+    url: project.html
     weight: 50
   - name: Downloads
-    url: download
+    url: download.html
     weight: 60
   - name: Gallary
-    url: gallary
+    url: gallary.html
     weight: 70

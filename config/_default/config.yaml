@@ -4,7 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: USTC Lab for Data Science # Website name
-baseURL: 'http://data-science.ustc.edu.cn/' # Website URL
+# baseURL: 'http://data-science.ustc.edu.cn/' # Website URL
+# baseURL: 'http://localhost:1313/'
+relativeURLs: true
+canonifyURLs: true
+uglyurls: true
 
 ############################
 ## LANGUAGE
