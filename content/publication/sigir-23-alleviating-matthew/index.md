@@ -11,6 +11,9 @@ authors:
   - Zhong Zhang
   - xiangnanhe
 date: '2023-07-01T00:00:00Z'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
