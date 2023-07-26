@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Fuli Feng
+title: Xiang Wang
 
 # Full name (for SEO)
-first_name: Fuli
-last_name: Feng
+first_name: Xiang
+last_name: Wang
 
 year: 2019
 
 # Username (this should match the folder name)
 authors:
-  - fulifeng
+  - xiangwang
 
 # Is this the primary user of the site?
 superuser: false
@@ -50,10 +50,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fulifeng93@gmail.com,'
+    link: 'mailto:xiangwang1223@gmail.com,'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=HdhaQB0AAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
   - Advisors
 ---
 
-Fuli Feng is a Professor in University of Science and Technology of China. He received B.Eng. from Beihang University in July 2015 and PhD from National University of Singapore in August 2019. He has about 100 publications appeared in several top conferences such as SIGIR, SIGKDD, WWW, and ACL, and journals including TKDE, TOIS, and TPAMI. He received the Best Paper Honourable Mention in SIGIR 2021 and Best Poster Award in WWW 2018. His research interests include information retrieval, data mining, and multi-media analytics, particularly in machine learning techniques and applications such as causal inference, graph neural networks, adversarial learning, multi-source learning, recommender systems, FinTech, and text mining. Moreover, He has served as the AC or SPC/PC-member for top-tier conferences including SIGIR, WWW, SIGKDD, NeurIPS, ICLR, ICML, ACL, and the invited reviewer for prestigious journals such as TOIS, TKDE, TPAMI, TNNLS, JASA, and Nature Sustainability.
+Xiang Wang is a Professor in University of Science and Technology of China, where he is a member of Lab of Data Science. He strives to develop trustworthy deep learning and artificial intelligence algorithms with better interpretability, generalization, and robustness. Our research is motivated by, and contributes to, graph-structured applications in information retrieval (e.g., personalized recommendation), data mining (e.g., graph pre-training), security (e.g., fraud detection in fintech, information security in system), and multimedia (e.g., video question answering). His work has over 50 publications in top-tier conferences and journals. Over 10 papers have been featured in the most cited and influential list (e.g., KDD 2019, SIGIR 2019, SIGIR 2020, SIGIR 2021) and best paper finalist (e.g., WWW 2021, CVPR 2022). Moreover, He has served as the PC member for top-tier conferences including NeurIPS, ICLR, SIGIR and KDD, and the invited reviewer for prestigious journals including JMLR, TKDE, and TOIS.
