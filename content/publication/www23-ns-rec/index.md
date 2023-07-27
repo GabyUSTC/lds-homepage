@@ -1,13 +1,13 @@
 ---
 title: 'On the Theories Behind Hard Negative Sampling for Recommendation'
 authors:
-	- Wentao Shi
-	- Jiawei Chen
-	- Fuli Feng
-	- Jizhi Zhang
-	- Junkang Wu
-	- Chongming Gao 
-	- Xiangnan He
+  - Wentao Shi
+  - Jiawei Chen
+  - Fuli Feng
+  - Jizhi Zhang
+  - Junkang Wu
+  - Chongming Gao 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

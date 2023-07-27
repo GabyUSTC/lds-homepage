@@ -1,12 +1,12 @@
 ---
 title: 'Adap-τ: Adaptively Modulating Embedding Magnitude for Recommendation'
 authors:
-	- Jiawei Chen
-	- Junkang Wu
-	- Jiancan Wu
-	- Xuezhi Cao
-	- Sheng Zhou 
-	- Xiangnan He
+  - Jiawei Chen
+  - Junkang Wu
+  - Jiancan Wu
+  - Xuezhi Cao
+  - Sheng Zhou 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

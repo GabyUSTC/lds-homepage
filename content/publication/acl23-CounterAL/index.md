@@ -1,12 +1,12 @@
 ---
 title: 'Counterfactual Active Learning for Out-of-Distribution Generalization'
 authors:
-	- Xun Deng
-	- Wenjie Wang
-	- Fuli Feng
-	- Hanwang Zhang
-	- Xiangnan He 
-	- Yong Liao
+  - Xun Deng
+  - Wenjie Wang
+  - Fuli Feng
+  - Hanwang Zhang
+  - Xiangnan He 
+  - Yong Liao
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

@@ -1,12 +1,12 @@
 ---
 title: 'CgT-GAN: CLIP-guided Text GAN for Image Captioning'
 authors:
-	- Jiarui Yu
-	- Haoran Li
-	- Yanbin Hao
-	- Bin Zhu
-	- Tong Xu 
-	- Xiangnan He
+  - Jiarui Yu
+  - Haoran Li
+  - Yanbin Hao
+  - Bin Zhu
+  - Tong Xu 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

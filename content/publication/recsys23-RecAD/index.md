@@ -1,12 +1,12 @@
 ---
 title: 'RecAD: Towards A Unified Library for Recommender Attack and Defense'
 authors:
-	- Changsheng Wang
-	- Jianbai Ye
-	- Wenjie Wang
-	- Chongming Gao
-	- Fuli Feng 
-	- Xiangnan He
+  - Changsheng Wang
+  - Jianbai Ye
+  - Wenjie Wang
+  - Chongming Gao
+  - Fuli Feng 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

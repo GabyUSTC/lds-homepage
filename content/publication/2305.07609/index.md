@@ -1,12 +1,12 @@
 ---
 title: 'Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model'
 authors:
-	- Jizhi Zhang
-	- Keqin Bao
-	- Yang Zhang
-	- Wenjie Wang
-	- Fuli Feng 
-	- Xiangnan He
+  - Jizhi Zhang
+  - Keqin Bao
+  - Yang Zhang
+  - Wenjie Wang
+  - Fuli Feng 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

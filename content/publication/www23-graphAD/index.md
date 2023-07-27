@@ -1,12 +1,12 @@
 ---
 title: 'Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum'
 authors:
-	- Yuan Gao
-	- Xiang Wang
-	- Xiangnan He
-	- Zhenguang Liu
-	- Huamin Feng 
-	- Yongdong Zhang
+  - Yuan Gao
+  - Xiang Wang
+  - Xiangnan He
+  - Zhenguang Liu
+  - Huamin Feng 
+  - Yongdong Zhang
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

@@ -1,12 +1,12 @@
 ---
 title: 'Diffusion Recommender Model'
 authors:
-	- Wenjie Wang
-	- Yiyan Xu
-	- Fuli Feng
-	- Xinyu Lin
-	- Xiangnan He 
-	- Tat-Seng Chua
+  - Wenjie Wang
+  - Yiyan Xu
+  - Fuli Feng
+  - Xinyu Lin
+  - Xiangnan He 
+  - Tat-Seng Chua
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

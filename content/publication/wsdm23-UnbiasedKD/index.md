@@ -1,11 +1,11 @@
 ---
 title: 'Unbiased Knowledge Distillation for Recommendation'
 authors:
-	- Gang Chen
-	- Jiawei Chen
-	- Fuli Feng
-	- Sheng Zhou 
-	- Xiangnan He
+  - Gang Chen
+  - Jiawei Chen
+  - Fuli Feng
+  - Sheng Zhou 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

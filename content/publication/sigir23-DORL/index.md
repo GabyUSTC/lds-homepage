@@ -1,15 +1,15 @@
 ---
 title: 'Alleviating Matthew Effect of Offline Reinforcement Learning in Recommendation'
 authors:
-	- Chongming Gao
-	- Kexin Huang
-	- Jiawei Chen
-	- Yuan Zhang
-	- Biao Li
-	- Peng Jiang
-	- Shiqi Wang
-	- Zhong Zhang 
-	- Xiangnan He
+  - Chongming Gao
+  - Kexin Huang
+  - Jiawei Chen
+  - Yuan Zhang
+  - Biao Li
+  - Peng Jiang
+  - Shiqi Wang
+  - Zhong Zhang 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

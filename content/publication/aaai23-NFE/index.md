@@ -1,9 +1,9 @@
 ---
 title: 'Knowledge Graph Embedding by Normalizing Flows'
 authors:
-	- Changyi Xiao
-	- Xiangnan He 
-	- Yixin Cao
+  - Changyi Xiao
+  - Xiangnan He 
+  - Yixin Cao
 
 date: '2023-07-01T00:00:00Z'
 doi: ''

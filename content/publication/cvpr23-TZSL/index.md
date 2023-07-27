@@ -1,12 +1,12 @@
 ---
 title: 'Bi-directional Distribution Alignment for Transductive Zero Shot Learning'
 authors:
-	- Zhicai Wang
-	- Yanbin Hao
-	- Tingting Mu
-	- Ouxiang Li
-	- Shuo Wang 
-	- Xiangnan He
+  - Zhicai Wang
+  - Yanbin Hao
+  - Tingting Mu
+  - Ouxiang Li
+  - Shuo Wang 
+  - Xiangnan He
 
 date: '2023-07-01T00:00:00Z'
 doi: ''
