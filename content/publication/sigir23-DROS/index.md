@@ -1,17 +1,17 @@
 ---
 title: 'A Generic Learning Framework for Sequential Recommendation with Distribution Shifts'
 authors:
-  - Zhengyi Yang
-  - Xiangnan He
-  - Jizhi Zhang
-  - Jiancan Wu
-  - Xin Xin
-  - Jiawei Chen 
-  - Xiang Wang
+  - zhengyiyang
+  - xiangnanhe
+  - jizhizhang
+  - jiancanwu
+  - xinxin
+  - jiaweichen
+  - xiangwang
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-04-06T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-04-06T00:00:00Z'
 publication_types: ['1']
 publication: In SIGIR 2023 
 publication_short: In SIGIR 2023 

@@ -1,16 +1,16 @@
 ---
 title: 'Discriminative-Invariant Representation Learning for Unbiased Recommendation'
 authors:
-  - Hang Pan
-  - Jiawei Chen
-  - Fuli Feng
-  - Wentao Shi
-  - Junkang Wu 
-  - Xiangnan He
+  - hangpan
+  - jiaweichen
+  - fulifeng
+  - wentaoshi
+  - junkangwu
+  - xiangnanhe
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-04-20T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-04-20T00:00:00Z'
 publication_types: ['1']
 publication: In IJCAI 2023 
 publication_short: In IJCAI 2023 

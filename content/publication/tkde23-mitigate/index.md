@@ -8,10 +8,10 @@ authors:
   - Dingxian Wang 
   - Xiangnan He
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
-publication_types: ['1']
+publishDate: '2023-01-01T00:00:00Z'
+publication_types: ['2']
 publication: In IEEE Transactions on Knowledge and Data Engineering 
 publication_short: In IEEE Transactions on Knowledge and Data Engineering 
 

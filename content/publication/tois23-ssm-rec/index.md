@@ -1,18 +1,18 @@
 ---
 title: 'On the Effectiveness of Sampled Softmax Loss for Item Recommendation'
 authors:
-  - Jiancan Wu
-  - Xiang Wang
-  - Xingyu Gao
-  - Jiawei Chen
-  - Hongcheng Fu
-  - Tianyu Qiu 
-  - Xiangnan He
+  - jiancanwu
+  - xiangwang
+  - xingyugao
+  - jiaweichen
+  - hongchengfu
+  - tianyuqiu
+  - xiangnanhe
 
 date: '2023-07-01T00:00:00Z'
 doi: ''
 publishDate: '2023-07-01T00:00:00Z'
-publication_types: ['1']
+publication_types: ['2']
 publication: In ACM Transactions on Information Systems 
 publication_short: In ACM Transactions on Information Systems 
 
