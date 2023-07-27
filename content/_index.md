@@ -63,4 +63,18 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: contact
+    content:
+      directions: Xinzhi Building B404, University of Science and Technology of China (Gaoxin Campus)
+      address:
+        street: No.100 Fuxing Road
+        city: Hefei
+        region: Anhui
+        postcode: '230093'
+        country: China
+        country_code: PRC
+      coordinates:
+        latitude: '31.819605'
+        longitude: '117.1277139'
 ---

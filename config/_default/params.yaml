@@ -99,7 +99,7 @@ features:
       show_logo: false
   map:
     provider: 'mapnik'
-    api_key: ''
+    api_key: 'pk.eyJ1Ijoic2h1eGlhbmJpIiwiYSI6ImNsa2t1OHQzZzA1ZmUzZWp0N2I5OTduajIifQ.vqk9A6IUOz0AOcNvyT8fIQ'
     zoom: 15
 
 # Extensions
