@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fuli Feng
+title: Fuli Feng (冯福利)
 
 # Full name (for SEO)
 first_name: Fuli
