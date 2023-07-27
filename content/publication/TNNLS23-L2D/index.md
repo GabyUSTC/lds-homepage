@@ -1,17 +1,17 @@
 ---
 title: 'Learning to Double-check Model Prediction from a Causal Perspective'
 authors:
-  - Xun Deng
-  - Fuli Feng
-  - Xiang Wang
-  - Xiangnan He
-  - Hanwang Zhang 
-  - Tat-Seng Chua
+  - xundeng
+  - fulifeng
+  - xiangwang
+  - xiangnanhe
+  - hanwangzhang
+  - tat-sengchua
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-03-31T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
-publication_types: ['1']
+publishDate: '2023-03-31T00:00:00Z'
+publication_types: ['2']
 publication: In IEEE Transactions on Neural Networks and Learning Systems 
 publication_short: In IEEE Transactions on Neural Networks and Learning Systems 
 

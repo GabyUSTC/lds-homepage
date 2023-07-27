@@ -1,17 +1,17 @@
 ---
 title: 'Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation'
 authors:
-  - Yang Zhang
-  - Tianhao Shi
-  - Fuli Feng
-  - Wenjie Wang
-  - Dingxian Wang
-  - Xiangnan He 
-  - Yongdong Zhang
+  - yangzhang
+  - tianhaoshi
+  - fulifeng
+  - wenjiewang
+  - dingxianwang
+  - xiangnanhe
+  - yongdongzhang
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-04-06T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-04-06T00:00:00Z'
 publication_types: ['1']
 publication: In SIGIR 2023 
 publication_short: In SIGIR 2023 

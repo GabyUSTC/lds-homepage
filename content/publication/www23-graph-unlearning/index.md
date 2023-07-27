@@ -1,16 +1,16 @@
 ---
 title: 'GIF: A General Graph Unlearning Strategy via Influence Function'
 authors:
-  - Jiancan Wu
-  - Yi Yang
-  - Yuchun Qian
-  - Yongduo Sui
-  - Xiang Wang 
-  - Xiangnan He
+  - jiancanwu
+  - yiyang
+  - yuchunqian
+  - yongduosui
+  - xiangwang
+  - xiangnanhe
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-01-26T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-01-26T00:00:00Z'
 publication_types: ['1']
 publication: In WWW 2023 
 publication_short: In WWW 2023 

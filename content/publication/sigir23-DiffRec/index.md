@@ -1,16 +1,16 @@
 ---
 title: 'Diffusion Recommender Model'
 authors:
-  - Wenjie Wang
-  - Yiyan Xu
-  - Fuli Feng
-  - Xinyu Lin
-  - Xiangnan He 
-  - Tat-Seng Chua
+  - wenjiewang
+  - yiyanxu
+  - fulifeng
+  - xinyulin
+  - xiangnanhe
+  - tat-sengchua
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-04-06T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-04-06T00:00:00Z'
 publication_types: ['1']
 publication: In SIGIR 2023 
 publication_short: In SIGIR 2023 

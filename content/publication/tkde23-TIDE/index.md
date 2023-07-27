@@ -1,18 +1,18 @@
 ---
 title: 'Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for Recommendation'
 authors:
-  - Zihao Zhao
-  - Jiawei Chen
-  - Sheng Zhou
-  - Xiangnan He
-  - Xuezhi Cao
-  - Fuzheng Zhang 
-  - Wei Wu
+  - zihaozhao
+  - jiaweichen
+  - shengzhou
+  - xiangnanhe
+  - xuezhicao
+  - fuzhengzhang
+  - weiwu
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
-publication_types: ['1']
+publishDate: '2023-01-01T00:00:00Z'
+publication_types: ['2']
 publication: In IEEE Transactions on Knowledge and Data Engineering 
 publication_short: In IEEE Transactions on Knowledge and Data Engineering 
 

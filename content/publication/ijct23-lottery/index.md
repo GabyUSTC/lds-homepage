@@ -1,17 +1,17 @@
 ---
 title: 'Inductive Lottery Ticket Learning for Graph Neural Networks'
 authors:
-  - Yongduo Sui
-  - Xiang Wang
-  - Tianlong Chen
-  - Meng Wang
+  - yongduosui
+  - xiangwang
+  - tianlongchen
+  - mengwang
   - 
-  - Xiangnan He 
-  - Tat-Seng Chua
+  - xiangnanhe
+  - tat-sengchua
 
-date: '2023-07-01T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['1']
 publication: In Journal of Computer Science and Technology 
 publication_short: In Journal of Computer Science and Technology 

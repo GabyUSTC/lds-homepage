@@ -1,16 +1,16 @@
 ---
 title: 'Alleviating Structural Distribution Shift in Graph Anomaly Detection'
 authors:
-  - Yuan Gao
-  - Xiang Wang
-  - Xiangnan He
-  - Zhenguang Liu
-  - Huamin Feng 
-  - Yongdong Zhang
+  - yuangao
+  - xiangwang
+  - xiangnanhe
+  - zhenguangliu
+  - huaminfeng
+  - yongdongzhang
 
-date: '2023-07-01T00:00:00Z'
+date: '2022-10-18T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2022-10-18T00:00:00Z'
 publication_types: ['1']
 publication: In WSDM 2023 
 publication_short: In WSDM 2023 

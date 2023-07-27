@@ -1,16 +1,16 @@
 ---
 title: 'Cooperative Explanations of Graph Neural Networks'
 authors:
-  - Junfeng Fang
-  - Xiang Wang
-  - An Zhang
-  - Zemin Liu
-  - Xiangnan He 
-  - Tat-Seng Chua
+  - junfengfang
+  - xiangwang
+  - anzhang
+  - zeminliu
+  - xiangnanhe
+  - tat-sengchua
 
-date: '2023-07-01T00:00:00Z'
+date: '2022-10-18T00:00:00Z'
 doi: ''
-publishDate: '2023-07-01T00:00:00Z'
+publishDate: '2022-10-18T00:00:00Z'
 publication_types: ['1']
 publication: In WSDM 2023 
 publication_short: In WSDM 2023 
