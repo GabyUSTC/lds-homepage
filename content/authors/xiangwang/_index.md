@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiang Wang (王翔)
+title: Xiang Wang
 
 # Full name (for SEO)
 first_name: Xiang

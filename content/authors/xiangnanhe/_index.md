@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiangnan He (何向南)
+title: Xiangnan He
 
 # Full name (for SEO)
 first_name: Xiangnan

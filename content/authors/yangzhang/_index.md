@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Zhang (张洋)
+title: Yang Zhang
 
 # Full name (for SEO)
 first_name: Yang
