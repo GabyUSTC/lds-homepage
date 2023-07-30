@@ -15,12 +15,19 @@ sections:
           - PhD Students
           - Master Students
           - Undergraduate
-          - Alumni
+          # - Alumni
           
       sort_by: Params.year
       sort_ascending: true
+
     design:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: Alumni
+      text: |-
+        - 丁世昌: 2020-2021 科研助理;解放军信息工程大学网安学院
 ---
