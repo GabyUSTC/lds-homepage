@@ -29,27 +29,75 @@ sections:
     content:
       title: Alumni
       text: |-
-        | Ph.D. & Postdoc & RA Alumni   | Master Alumni           | Undergrad Alumni              |
-        | :------------------------------------ | :------------------------------------ | :------------------------------------ |
-        | Yu Zhang (Ph.D. 2021 -> 中科院上海研究院)| Hongming Zhu (Master 2021 -> 安徽十锎信息科技 ) | Tianxin Wei (Undergrad 2021 -> Ph.D. student at UIUC )  |
-        |Shichang Ding (RA 2021 -> 解放军信息工程大学网安学院 )|Tong Guo (Master 2021 -> 快手科技 ) | Zilin Luo (Undergrad 2021 -> Ph.D. student at SMU ) |
-        | Jiawei Chen (Postdoc 2022 -> 浙江大学百人B研究员)|Kuan Deng (Master 2021 -> Ph.D. student at USTC )|Muqun Wang (Undergrad 2022 -> Master student at UIUC )|
-        | Jiancan Wu (Ph.D. 2022 -> Postdoc, USTC)| Shunyu Jiang (Master 2022 -> 合肥华安证券 ) |Yu Wang (Undergrad 2022 -> Ph.D. student at UCSD ) |
-        | Wenqin Ye (RA 2022 -> Master at NUS )|Huaqing Li (Master 2022 -> 北京小鹏汽车 )|Yinxin Wu (Undergrad 2022 -> Ph.D. student at Stanford )|
-        | Pei Cao (RA 2022 -> 华院计算（上海）, 数字人算法研发 )|Yanfang Wang (Master 2022 -> 上海bilibili )||
-        | Weijian Chen (Ph.D. 2023 -> 数据空间研究院)|Hande Dong (Master 2022 -> 深圳IDEA研究院 )| |
-        | Sihao Ding (Ph.D. 2023 -> 抖音)| Huaqing Li (Master 2022 -> 北京小鹏汽车 )|  |
-        | |Shijun Li (Master 2023 -> Ph.D. student at UT Austin ) | |
-        | |Ming Pei (Master 2023 -> Ph.D. student at USTC )| |
-        | |Tong Ye (Master 2023 -> 数据空间研究院) | |
-        | |Dian Chen (Master 2023 -> 科大讯飞 ) | |
-        | |Keren Zheng (Master 2023 -> 比亚迪 ) | |
-        | |Gang Chen (Master 2023 -> 四川烟草 ) | |
-        | |Shifeng Zhou (Master 2023 -> 京东 ) | |
-        | |Chenxu Wang (Master 2023 -> 快手 ) | |
-        | |Zhiyun Wan (Master 2023 -> 交通银行 ) | |
-        | |Qiu Yang (Master 2023 -> 比亚迪 ) | |
-        | |Tianren Fu (Master 2023 -> 嘉兴无线电管理局 ) | |
+        ## Postdoc Alumni
+        | Name   | Graduation Year     | To |
+        | :----------------- | :------------- | :------------ |
+        | Jiawei Chen (陈佳伟)|2022|浙江大学百人B研究员|
+        
+        ## PhD Alumni
+        | Name   | Graduation Year     | To |
+        | :----------------- | :------------- | :------------ |
+        | Sihao Ding (丁斯昊)|2023|抖音|
+        | Weijian Chen (陈伟健)|2023|数据空间研究院|
+        | Jiancan Wu (吴剑灿)|2022|Postdoc@USTC|
+
+        ## Master Alumni
+        | Name   | Graduation Year     | To |
+        | :----------------- | :------------- | :------------ |
+        | Ming Pei (裴铭)|2023|PhD@USTC|
+        | Shijun Li (李师军)|2023|PhD@UT Austin|
+        | Tianren Fu (傅天任)|2023|嘉兴无线电管理局|
+        | Yang Qiu (邱阳)|2023|比亚迪|
+        | Zhiyun Wan (万之蕴)|2023|交通银行|
+        | Chenxu Wang (王晨旭)|2023|快手|
+        | Shifeng Zhou (周世奉)|2023|京东|
+        | Gang Chen (陈钢)|2023|四川烟草|
+        | Keren Zheng (郑可人)|2023|比亚迪|
+        | Dian Cheng (程典)|2023|科大讯飞|
+        | Tong Ye (叶童)|2023|数据空间研究院|
+        | Hande Dong (董汉德)|2022|深圳IDEA研究院|
+        | Yanfang Wang (王燕芳)|2022|Bilibili|
+        | Huaqing Li (李华庆)|2022|北京小鹏汽车|
+        | Shunyu Jiang (江顺宇)|2022|合肥华安证券|
+        | Kuan Deng (邓宽)|2022|PhD@USTC|
+
+        ## Undergraduates Alumni
+        | Name   | Graduation Year     | To |
+        | :----------------- | :------------- | :------------ |
+        | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor:Jure Leskovec|
+        | Yu Wang (王禹)|2022|PhD@UCSD, advisor:Julian McAuley|
+        | Muqun Wang (王牧群)|2022|MSc@UIUC|
+        | Zilin Luo (骆子林)|2021|PhD@Singapore Management University|
+
+        ## RA Alumni
+        | Name   | Graduation Year     | To |
+        | :----------------- | :------------- | :------------ |
+        | Pei Cao (曹培)|2022|华院计算（上海）, 数字人算法研发|
+        | Wenqin Ye (叶文沁)|2022|MSc@NUS|
+        | Shichang Ding (丁世昌)|2021|解放军信息工程大学网安学院|
+
+# text: |-
+#   | Ph.D. & Postdoc & RA Alumni   | Master Alumni           | Undergrad Alumni              |
+#   | :------------------------------------ | :------------------------------------ | :------------------------------------ |
+#   | Yu Zhang (Ph.D. 2021 -> 中科院上海研究院)| Hongming Zhu (Master 2021 -> 安徽十锎信息科技 ) | Tianxin Wei (Undergrad 2021 -> Ph.D. student at UIUC )  |
+#   |Shichang Ding (RA 2021 -> 解放军信息工程大学网安学院 )|Tong Guo (Master 2021 -> 快手科技 ) | Zilin Luo (Undergrad 2021 -> Ph.D. student at SMU ) |
+#   | Jiawei Chen (Postdoc 2022 -> 浙江大学百人B研究员)|Kuan Deng (Master 2021 -> Ph.D. student at USTC )|Muqun Wang (Undergrad 2022 -> Master student at UIUC )|
+#   | Jiancan Wu (Ph.D. 2022 -> Postdoc, USTC)| Shunyu Jiang (Master 2022 -> 合肥华安证券 ) |Yu Wang (Undergrad 2022 -> Ph.D. student at UCSD ) |
+#   | Wenqin Ye (RA 2022 -> Master at NUS )|Huaqing Li (Master 2022 -> 北京小鹏汽车 )|Yinxin Wu (Undergrad 2022 -> Ph.D. student at Stanford )|
+#   | Pei Cao (RA 2022 -> 华院计算（上海）, 数字人算法研发 )|Yanfang Wang (Master 2022 -> 上海bilibili )||
+#   | Weijian Chen (Ph.D. 2023 -> 数据空间研究院)|Hande Dong (Master 2022 -> 深圳IDEA研究院 )| |
+#   | Sihao Ding (Ph.D. 2023 -> 抖音)| Huaqing Li (Master 2022 -> 北京小鹏汽车 )|  |
+#   | |Shijun Li (Master 2023 -> Ph.D. student at UT Austin ) | |
+#   | |Ming Pei (Master 2023 -> Ph.D. student at USTC )| |
+#   | |Tong Ye (Master 2023 -> 数据空间研究院) | |
+#   | |Dian Chen (Master 2023 -> 科大讯飞 ) | |
+#   | |Keren Zheng (Master 2023 -> 比亚迪 ) | |
+#   | |Gang Chen (Master 2023 -> 四川烟草 ) | |
+#   | |Shifeng Zhou (Master 2023 -> 京东 ) | |
+#   | |Chenxu Wang (Master 2023 -> 快手 ) | |
+#   | |Zhiyun Wan (Master 2023 -> 交通银行 ) | |
+#   | |Qiu Yang (Master 2023 -> 比亚迪 ) | |
+#   | |Tianren Fu (Master 2023 -> 嘉兴无线电管理局 ) | |
 
   # - block: markdown
   #   content:
