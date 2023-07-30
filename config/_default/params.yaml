@@ -36,6 +36,7 @@ header:
     enable: true
     align: r
     show_logo: true
+    logo_size: "10px"
     show_language: false
     show_day_night: true
     show_search: true
@@ -96,7 +97,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: 'pk.eyJ1Ijoic2h1eGlhbmJpIiwiYSI6ImNsa2t1OHQzZzA1ZmUzZWp0N2I5OTduajIifQ.vqk9A6IUOz0AOcNvyT8fIQ'

@@ -1,0 +1,74 @@
+---
+# Display name
+title: Kai Zhang
+
+# Full name (for SEO)
+first_name: Kai
+last_name: Zhang
+
+# 入学年份
+year: 2022
+
+# Username (this should match the folder name)，如果叫张三那么就是sanzhang
+authors:
+  - kaizhang
+
+# Is this the primary user of the site? 
+superuser: false
+
+# Role/position 
+role: Master Student
+
+# user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
+user_groups:
+  - Master Students
+
+# Organizations/Affiliations 自己的学院
+organizations:
+  - name: Institute of Advanced Technology
+    url: 'https://iat.ustc.edu.cn/iat/index.html'
+
+education:
+   courses:
+     - course: MEng in Electronic Information
+       institution: University of Science and Technology of China
+       year: 2022-Now
+     - course: BSc in Electronic Information
+       institution: Tianjin University
+       year: 2018-2022
+
+# Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Recommender System
+  - Graph Learning
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+# Google Scholar如果没有可以注释后面三行
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:kaizhang99@mail.ustc.edu.cn'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/yourgooglescholar
+
+# Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'kaizhang99@mail.ustc.edu.cn'
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+---
+
+Kai Zhang  (张开) is a Master student in LDS.
