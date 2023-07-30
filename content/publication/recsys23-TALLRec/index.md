@@ -1,12 +1,12 @@
 ---
 title: 'TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation'
 authors:
-  - Keqin Bao
-  - Jizhi Zhang
-  - Yang Zhang
-  - Wenjie Wang
-  - Fuli Feng 
-  - Xiangnan He
+  - keqinbao
+  - jizhizhang
+  - yangzhang
+  - wenjiewang
+  - fulifeng
+  - xiangnanhe
 
 date: '2023-07-26T00:00:00Z'
 doi: ''

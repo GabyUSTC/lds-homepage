@@ -1,12 +1,12 @@
 ---
 title: 'Mitigating Hidden Confounding Effects for Causal Recommendation'
 authors:
-  - Xinyuan Zhu
-  - Yang Zhang
-  - Fuli Feng
-  - Xun Yang
-  - Dingxian Wang 
-  - Xiangnan He
+  - xinyuanzhu
+  - yangzhang
+  - fulifeng
+  - xunyang
+  - dingxianwang
+  - xiangnanhe
 
 date: '2023-01-01T00:00:00Z'
 doi: ''

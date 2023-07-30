@@ -1,15 +1,15 @@
 ---
 title: 'CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System'
 authors:
-  - Chongming Gao
-  - Wenqiang Lei
-  - Jiawei Chen
-  - Siqi Wang
-  - Xiangnan He
-  - Shijun Li
-  - Biao Li
-  - Yuan Zhang 
-  - Peng Jiang
+  - chongminggao
+  - wenqianglei
+  - jiaweichen
+  - siqiwang
+  - xiangnanhe
+  - shijunli
+  - biaoli
+  - yuanzhang 
+  - pengjiang
 
 date: '2023-07-01T00:00:00Z'
 doi: ''
