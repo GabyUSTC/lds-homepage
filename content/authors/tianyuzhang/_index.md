@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Yuyue Zhao
+title: Tianyu Zhang
 
 # Full name (for SEO)
-first_name: Yuyue
-last_name: Zhao
+first_name: Tianyu
+last_name: Zhang
 
 # 入学年份
-year: 2019
+year: 2023
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
-  - yuyuezhao
+  - tianyuzhang
 
 # Is this the primary user of the site? 
 superuser: false
@@ -25,26 +25,27 @@ user_groups:
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Cyber Science and Technology
-    url: 'http://cybersec.ustc.edu.cn/main.htm'
+  - name: School of Data Science
+    url: 'http://sds.ustc.edu.cn/main.htm'
 
 education:
    courses:
-     - course: PhD in School of Cyber Science and Technology
-       institution: University of Science and Technology of China
-       year: 2019
-
-     - course: BSc in Communication Engineering
-       institution: Southwest Jiaotong University
-       year: 2015
+     - course: Advanced Machine Learning & Artificial Intelligence
+       institution: University of Chicago
+       year: 2022
+     - course: Machine Learning & Predictive Analytics
+       institution: University of Chicago
+       year: 2022
+     - course: Data Engineering Platforms for Analytics
+       institution: University of Chicago
+       year: 2021
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Large Language Model
   - Recommender System
-  - Knowledge Graph
-  - LLM as Agent
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,10 +56,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yyzha0@mail.ustc.edu.cn,'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=jEnOSuEAAAAJ&hl=zh-CN&oi=ao
+    link: 'mailto:tianyuz1@mail.ustc.edu.cn'
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/yourgooglescholar
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,10 +68,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yyzha0@mail.ustc.edu.cn'
+email: 'tianyuz1@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yuyue Zhao (赵愉悦) is a PhD student in LDS...
+Tianyu Zhang (张天宇) is a PhD student in LDS...

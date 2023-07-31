@@ -1,50 +1,49 @@
 ---
 # Display name
-title: Yuyue Zhao
+title: Wentao Shi
 
 # Full name (for SEO)
-first_name: Yuyue
-last_name: Zhao
+first_name: Wentao
+last_name: Shi
 
 # 入学年份
-year: 2019
+year: 2021
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
-  - yuyuezhao
+  - wentaoshi
 
 # Is this the primary user of the site? 
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: Master Student
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - PhD Students
+  - Master Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Cyber Science and Technology
-    url: 'http://cybersec.ustc.edu.cn/main.htm'
+  - name: School of Information Science and Technology
+    url: ''
 
 education:
    courses:
-     - course: PhD in School of Cyber Science and Technology
-       institution: University of Science and Technology of China
-       year: 2019
-
-     - course: BSc in Communication Engineering
-       institution: Southwest Jiaotong University
-       year: 2015
+     - course: MEng in Artificial Intelligence
+       institution: Massachusetts Institute of Technology
+       year: 2023
+     - course: BSc in Artificial Intelligence
+       institution: Massachusetts Institute of Technology
+       year: 2021
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Recommender System
-  - Knowledge Graph
-  - LLM as Agent
+  - Out-of-distribution Generalization
+  - Recommendation System
+  - Information Retrieval
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,10 +54,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yyzha0@mail.ustc.edu.cn,'
+    link: 'mailto:shiwentao123@mail.ustc.edu.cn,'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=jEnOSuEAAAAJ&hl=zh-CN&oi=ao
+    link: https://scholar.google.com/citations?user=fs_Xp6QAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -67,10 +66,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yyzha0@mail.ustc.edu.cn'
+email: 'shiwentao123@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yuyue Zhao (赵愉悦) is a PhD student in LDS...
+I am a 3rd-year Master's student at the USTC Lab for Data Science, supervised by Prof. Xiangnan He. I received my bachelor's degree in the School of Information Science and Technology at USTC. Now, my research interest lies in Out-of-Distribution Generalization and Recommendation System. Moreover, I have served as invited reviewer for ACM TOIS, IEEE TKDE.
