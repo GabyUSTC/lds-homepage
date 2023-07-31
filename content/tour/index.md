@@ -8,47 +8,52 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to USTC Lab for Data Science
+        content: See the latest work we are doing
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: keqin.jpeg
             filters:
               brightness: 0.7
-          position: right
+          position: center
           color: '#666'
+        link:
+          icon: newspaper
+          icon_pack: fas
+          text: News
+          url: post.html
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: jizhi.jpeg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Contact with us and be an LDSer!
+        content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: jizhi2.jpeg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: contact.html
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 8000
 ---

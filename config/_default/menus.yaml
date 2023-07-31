@@ -16,12 +16,12 @@ main:
   - name: Publications
     url: publication.html
     weight: 40
-  - name: Projects
-    url: project.html
-    weight: 50
-  - name: Downloads
-    url: download.html
-    weight: 60
   - name: Gallary
     url: gallary.html
-    weight: 70
+    weight: 50
+  - name: Contact
+    url: contact.html
+    weight: 60
+  # - name: Gallary
+  #   url: gallary.html
+  #   weight: 70
