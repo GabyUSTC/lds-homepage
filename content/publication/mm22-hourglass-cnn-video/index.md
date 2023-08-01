@@ -4,7 +4,7 @@ authors:
   - yitan
   - yanbinhao
   - haozhang
-  - shouwang
+  - shuowang
   - xiangnanhe
 
 date: '2022-07-13T00:00:00Z'
