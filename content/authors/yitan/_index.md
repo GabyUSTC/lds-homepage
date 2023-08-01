@@ -11,7 +11,7 @@ year: 2020
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
-  - tanyi
+  - yitan
 
 # Is this the primary user of the site? 
 superuser: false
