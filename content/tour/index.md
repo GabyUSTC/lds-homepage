@@ -1,59 +1,85 @@
 ---
-title: Tour
+# Leave the homepage title empty to use the site title
+title:
 date: 2022-10-24
-
 type: landing
 
 sections:
-  - block: slider
+  - block: markdown
     content:
-      slides:
-      - title: 👋 Welcome to USTC Lab for Data Science
-        content: See the latest work we are doing
-        align: center
-        background:
-          image:
-            filename: 2022_sept.JPG
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#666'
-        link:
-          icon: newspaper
-          icon_pack: fas
-          text: News
-          url: post.html
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: jizhi.jpeg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: Contact with us and be an LDSer!
-        content: ''
-        align: right
-        background:
-          image:
-            filename: keqin.jpeg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: contact.html
+      title: |
+        Lab for Data Science
+      # image:
+      #   filename: welcome.jpg
+      text: |
+        <br>
+        
+        The mission of **LDS** is to conduct cutting-edge research that can better "understand and analyze actual phenomena" from data. We work closely on the research fields of information retrieval (SIGIR, WWW, CIKM), data mining (KDD, WSDM), natural language processing (ACL, EMNLP), machine learning (NeurIPS, ICML, ICLR), multimedia (ACM MM, CVPR, ICCV), and more generally, artificial intelligence (AAAI, IJCAI). Current research interests are primarily on deep learning, graph learning, meta learning, and causal inference, with particular applications on recommender systems, dialog systems, knowledge graphs, and financial technologies (Fintech). 
+      # image: 
+      #   filename: keqin.jpeg
+      #   size: cover
+        # parallax: true
+        # position: right
+  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 8000
+      view: card
+      columns: '1'
+  
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: keqin.jpeg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="people.html" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+  - block: contact
+    content:
+      directions: Xinzhi Building B404, University of Science and Technology of China (Gaoxin Campus)
+      address:
+        street: No.100 Fuxing Road
+        city: Hefei
+        region: Anhui
+        postcode: '230093'
+        country: China
+        country_code: PRC
+      coordinates:
+        latitude: '31.819605'
+        longitude: '117.1277139'
 ---
