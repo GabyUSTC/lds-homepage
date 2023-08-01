@@ -66,4 +66,4 @@ email: 'jjq20021015@mail.ustc.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Jinqiu Jin (金锦球) is a Master student in LDS...
+Jinqiu Jin (金锦秋) is a Master student in LDS.

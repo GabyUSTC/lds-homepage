@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: 'keqin.jpeg'
+            filename: 2022_sept.JPG
             filters:
               brightness: 0.7
           position: center
@@ -38,7 +38,7 @@ sections:
         align: right
         background:
           image:
-            filename: jizhi2.jpeg
+            filename: keqin.jpeg
             filters:
               brightness: 0.7
           position: center
