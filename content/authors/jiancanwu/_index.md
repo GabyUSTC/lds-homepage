@@ -62,6 +62,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?hl=zh-CN&user=z9zW1UgAAAAJ
+  - icon: globe
+    icon_pack: fas
+    link: https://wujcan.github.io/
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

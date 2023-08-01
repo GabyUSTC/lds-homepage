@@ -2,10 +2,10 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 title: USTC Lab for Data Science # Website name
 # baseURL: 'http://data-science.ustc.edu.cn/' # Website URL
 # baseURL: 'http://localhost:1313/'
+baseURL: '/'
 relativeURLs: true
 canonifyURLs: true
 uglyurls: true
@@ -28,6 +28,9 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    # - path: wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    # - path: wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    # - path: wowchemy-hugo-themes/modules/wowchemy
 
 ############################
 ## ADVANCED
@@ -60,7 +63,16 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  _merge: deep
+  # _merge: deep
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 related:
   threshold: 80
   includeNewer: true
@@ -74,3 +86,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+redirects:
+- from: /**
+  status: 404
+  to: 404.html
+media:
+  params:
+    format: "png"

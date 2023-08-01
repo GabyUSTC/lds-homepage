@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: keqin.jpeg
+            filename: 'keqin.jpeg'
             filters:
               brightness: 0.7
           position: center

@@ -1,9 +1,15 @@
 ---
 title: One paper receives Best Paper Honorable Mention Award in SIGIR'23.
 date: 2023-07-25
-image:
-  focal_point: 'top'
+# image:
+#   focal_point: 'top'
+#   caption: ''
+#   focal_point: ''
+#   preview_only: no
 ---
+
+
+<!-- ![ddd](fig.png) -->
 
 Congratulations to Chongming Gao and all the collaborators for winning the Best Paper Honorable Mention Award at the SIGIR'23 for their paper “Alleviating Matthew Effect of Offline Reinforcement Learning in Recommendation”.
 

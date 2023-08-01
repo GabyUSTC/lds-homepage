@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Lab for Data Science
@@ -15,6 +15,11 @@ sections:
         <br>
         
         The mission of **LDS** is to conduct cutting-edge research that can better "understand and analyze actual phenomena" from data. We work closely on the research fields of information retrieval (SIGIR, WWW, CIKM), data mining (KDD, WSDM), natural language processing (ACL, EMNLP), machine learning (NeurIPS, ICML, ICLR), multimedia (ACM MM, CVPR, ICCV), and more generally, artificial intelligence (AAAI, IJCAI). Current research interests are primarily on deep learning, graph learning, meta learning, and causal inference, with particular applications on recommender systems, dialog systems, knowledge graphs, and financial technologies (Fintech). 
+      # image: 
+      #   filename: keqin.jpeg
+      #   size: cover
+        # parallax: true
+        # position: right
   
   - block: collection
     content:
@@ -35,25 +40,25 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: keqin.jpeg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: keqin.jpeg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
   
   - block: markdown
     content:
