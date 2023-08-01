@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to USTC Lab for Data Science
+      - title: Welcome to USTC Lab for Data Science
         content: See the latest work we are doing
         align: center
         background:
@@ -23,7 +23,7 @@ sections:
           icon_pack: fas
           text: News
           url: post.html
-      - title: Lunch & Learn ☕️
+      - title: Lunch & Learn 
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
