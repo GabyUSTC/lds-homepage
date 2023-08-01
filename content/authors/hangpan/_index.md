@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 潘航
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'hungpaan@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Hang Pan (潘航) is a fourth-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Fuli Feng. He earned his B.E. degree from XDU and his research interests now focus on recommender systems and causal inference. Hang Pan has authored over one publication that have been featured in top conference IJCAI. Additionally, he has served as a reviewer and PC member for AAAI.
+Hang Pan is a fourth-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Fuli Feng. He earned his B.E. degree from XDU and his research interests now focus on recommender systems and causal inference. Hang Pan has authored over one publication that have been featured in top conference IJCAI. Additionally, he has served as a reviewer and PC member for AAAI.

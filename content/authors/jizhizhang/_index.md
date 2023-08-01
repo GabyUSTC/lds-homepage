@@ -7,7 +7,7 @@ first_name: Jizhi
 last_name: Zhang
 
 # 入学年份
-year: 2023
+year: 2021
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student 
+role: 张及之
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:

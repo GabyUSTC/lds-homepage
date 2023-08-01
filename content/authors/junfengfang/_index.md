@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 方俊峰
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -66,4 +66,4 @@ email: 'fjf@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Junfeng Fang (方俊峰) is a PhD student in LDS, his research interests include explainable artificial intelligence, graph neural network and diffusion models.
+Junfeng Fang is a PhD student in LDS, his research interests include explainable artificial intelligence, graph neural network and diffusion models.

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 段敬儒
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'duanjr@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jingru Duan (段敬儒) is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Dr. Yanbin Hao and Prof. Xiang Wang. His research interest lies in computer vision and multimedia information retrieval.
+Jingru Duan is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Dr. Yanbin Hao and Prof. Xiang Wang. His research interest lies in computer vision and multimedia information retrieval.

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 姜萌
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'jiangm@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Meng Jiang (姜萌) is a Third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Fuli Feng. He earned his B.E. degree from NJAU and his research interests now focus on recommender systems and Fairness of RS. Meng Jiang has authored one publications that have been featured in top conferences ICDE. 
+Meng Jiang is a Third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Fuli Feng. He earned his B.E. degree from NJAU and his research interests now focus on recommender systems and Fairness of RS. Meng Jiang has authored one publications that have been featured in top conferences ICDE. 

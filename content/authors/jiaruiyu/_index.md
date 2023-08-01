@@ -1,51 +1,48 @@
 ---
 # Display name
-title: Yuan Gao
+title: Jiarui Yu
 
 # Full name (for SEO)
-first_name: Yuan
-last_name: Gao
+first_name: Jiarui
+last_name: Yu
 
 # 入学年份
-year: 2019
+year: 2021
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
-  - gaoyuan
+  - jiaruiyu
 
 # Is this the primary user of the site? 
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 于佳睿
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - PhD Students
+  - Master Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Cyber Science and Technology
-    url: 'http://cybersec.ustc.edu.cn/main.htm'
+  - name: School of Data Science
+    url: 'http://sds.ustc.edu.cn/main.htm'
 
 education:
    courses:
-     - course: PhD in Cyberspace Security
+     - course: MEng in Data Science
        institution: University of Science and Technology of China
-       year: 2020
-     - course: Master in Electrical and Computer Engineering
-       institution: University of Michigan， Ann Arbor
-       year: 2017
-     - course: BSc in Electrical Engineering
-       institution: University of Eletronic Science and Technology of China
-       year: 2013
+       year: 2021 - Now
+     - course: BSc in Computer Science
+       institution: University of Science and Technology of China
+       year: 2017 - 2021
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include graph anomaly detection and AIGC models.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Graph Neural Networks
-  - AIGC
+  - Multimodal Alignment Application
+  - Vision Foundation Model Application
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,10 +53,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yuanga@mail.ustc.edu.cn,'
+    link: 'yjr@mail.ustc.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=A-0yqLAAAAAJ&hl=zh-CN&authuser=1
+    link: https://scholar.google.com/citations?user=uMg3XJQAAAAJ
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,8 +65,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yjr@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
+
+Jiarui Yu is a 3rd-year Master’s student at the USTC Lab for Data Science (LDS), supervised by Dr. Yanbin Hao, Prof. Tong Xu and Prof. Xiangnan He. He received his bachelor’s degree in the School of Gifted Young at USTC. His research interest lies in multimodal alignment and vision foundation model applications.

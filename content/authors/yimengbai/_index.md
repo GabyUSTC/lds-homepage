@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 白移梦
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'baiyimeng@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yimeng Bai (白移梦) is a MSc student at the USTC Lab for Data Science, where he is supervised by Prof. Fuli Feng.
+Yimeng Bai is a MSc student at the USTC Lab for Data Science, where he is supervised by Prof. Fuli Feng.

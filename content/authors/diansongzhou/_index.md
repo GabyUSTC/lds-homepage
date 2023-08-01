@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 周殿松
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:

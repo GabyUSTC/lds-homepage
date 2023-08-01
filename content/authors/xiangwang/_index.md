@@ -6,7 +6,7 @@ title: Xiang Wang
 first_name: Xiang
 last_name: Wang
 
-year: 2019
+year: 2
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: 王翔
 
 # Organizations/Affiliations
 organizations:

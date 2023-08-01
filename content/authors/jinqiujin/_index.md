@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 金锦秋
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -66,4 +66,4 @@ email: 'jjq20021015@mail.ustc.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Jinqiu Jin (金锦秋) is a Master student in LDS.
+Jinqiu Jin is a Master student in LDS.

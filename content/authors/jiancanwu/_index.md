@@ -7,7 +7,7 @@ first_name: Jiancan
 last_name: Wu
 
 # 入学年份
-year: 2022
+year: 6
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Post-doc
+role: 吴剑灿
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -79,4 +79,4 @@ email: 'wujcan@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jiancan Wu (吴剑灿) is now a postdoc in LDS, Department of Electronic Engineering and Information Science(6系), University of Science and Technology of China. His research interests include information retrieval, data mining, LLM, trustworthy AI, particularly in recommender systems, graph learning.
+Jiancan Wu is now a postdoc in LDS, Department of Electronic Engineering and Information Science(6系), University of Science and Technology of China. His research interests include information retrieval, data mining, LLM, trustworthy AI, particularly in recommender systems, graph learning.

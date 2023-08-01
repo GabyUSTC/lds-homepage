@@ -6,7 +6,7 @@ title: Xiangnan He
 first_name: Xiangnan
 last_name: He
 
-year: 2018
+year: 1
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: 何向南
 
 # Organizations/Affiliations
 organizations:

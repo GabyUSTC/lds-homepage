@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 邓迅
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xun Deng (邓迅) is a third-year PhD student in the USTC Lab for Data Science, where he is advised by Professor Xiangnan He. He received his BE degree from USTC and is currently pursuing his PhD degree. His research interests include counterfactual reasoning, active learning, and their applications in natural language understanding (NLU), clustering, and virtual screening. Deng has authored two publications in TNNLS and ACL as of June 2023.
+Xun Deng is a third-year PhD student in the USTC Lab for Data Science, where he is advised by Professor Xiangnan He. He received his BE degree from USTC and is currently pursuing his PhD degree. His research interests include counterfactual reasoning, active learning, and their applications in natural language understanding (NLU), clustering, and virtual screening. Deng has authored two publications in TNNLS and ACL as of June 2023.

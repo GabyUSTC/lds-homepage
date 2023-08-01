@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 杨沐晨
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'sa22221101@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Muchen Yang (杨沐晨) is a Master student in LDS, where she is supervised by Prof. Fuli Feng. With her research interest in Large Language Model and Prompt Engineering, she is currently interning at IDATA.
+Muchen Yang is a Master student in LDS, where she is supervised by Prof. Fuli Feng. With her research interest in Large Language Model and Prompt Engineering, she is currently interning at IDATA.

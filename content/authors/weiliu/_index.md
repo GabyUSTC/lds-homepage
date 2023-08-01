@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 刘威
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,5 +72,5 @@ email: 'vvvliuwei@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Wei Liu (刘威) is a Master student in LDS. He is supervised by Prof. Xiangnan He.
+Wei Liu is a Master student in LDS. He is supervised by Prof. Xiangnan He.
 

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 李讴翔
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'lioox@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Ouxiang Li  (李讴翔) is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr.Yanbin Hao. His research focus on Multimedia and Diffusion Models.
+Ouxiang Li is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr.Yanbin Hao. His research focus on Multimedia and Diffusion Models.

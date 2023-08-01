@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 罗晏宸
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: 'luoyanchen@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yanchen Luo (罗晏宸) is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interests now focus on graph learning and representation learning with large language model.
+Yanchen Luo is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interests now focus on graph learning and representation learning with large language model.

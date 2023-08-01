@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 唐玮
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -76,4 +76,4 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Wei Tang (唐玮) is a PhD student in LDS. Wei is currently working on Retrieval Augmented LM. Also can be found at https://wtang.site .
+Wei Tang is a PhD student in LDS. Wei is currently working on Retrieval Augmented LM. Also can be found at https://wtang.site .

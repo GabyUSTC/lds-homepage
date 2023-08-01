@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 卢嘉栋
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -70,4 +70,4 @@ email: 'ljd_pb19000334@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jiadong Lu (卢嘉栋) is a Master student in LDS, supervised by Prof. Fuli Feng.
+Jiadong Lu is a Master student in LDS, supervised by Prof. Fuli Feng.

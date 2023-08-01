@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Research Associate Professor
+role: 郝艳宾
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -65,4 +65,4 @@ email: 'haoyanbin@hotmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yanbin Hao (郝艳宾) received the B.E. (ranked top 1 out of 87 students) and Ph.D. degrees from the Hefei University of Technology (HFUT) , Hefei, China, in 2012 and 2017, respectively. He is currently a Research Associate Professor, School of Data Science, School of Information Science and Technology, University of Science and Technology of China (USTC), China. His research interests mainly include machine learning and multimedia data analysis, such as large-scale multimedia indexing and retrieval, multimedia data embedding, and video understanding. He serves as a technical program committee (TPC) member for ACM MM, CVPR, ICCV, ECCV, NeuIPS, AAAI, IJCAI, etc., and reviewer for TIP, TMM, TNNLS, TKDE, TOMM, etc.
+Yanbin Hao received the B.E. (ranked top 1 out of 87 students) and Ph.D. degrees from the Hefei University of Technology (HFUT) , Hefei, China, in 2012 and 2017, respectively. He is currently a Research Associate Professor, School of Data Science, School of Information Science and Technology, University of Science and Technology of China (USTC), China. His research interests mainly include machine learning and multimedia data analysis, such as large-scale multimedia indexing and retrieval, multimedia data embedding, and video understanding. He serves as a technical program committee (TPC) member for ACM MM, CVPR, ICCV, ECCV, NeuIPS, AAAI, IJCAI, etc., and reviewer for TIP, TMM, TNNLS, TKDE, TOMM, etc.

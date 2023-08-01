@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 陈柯舟
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Kezhou Chen (陈柯舟) is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr. Shuo Wang.
+Kezhou Chen is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr. Shuo Wang.

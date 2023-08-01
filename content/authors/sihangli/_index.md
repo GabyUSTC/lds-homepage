@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 李思杭
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'sihang0520@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Sihang Li  (李思杭) is a third-year master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. He earned his B.E. degree from USTC and his research interests now focus on graph representation learning and multi-modal LM.
+Sihang Li is a third-year master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. He earned his B.E. degree from USTC and his research interests now focus on graph representation learning and multi-modal LM.

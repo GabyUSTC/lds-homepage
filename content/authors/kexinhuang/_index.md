@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 黄科鑫
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: 'huangkx@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Kexin Huang (黄科鑫) is currently a MSc student in LDS, where he is supervised by Prof. Xiangnan He.
+Kexin Huang is currently a MSc student in LDS, where he is supervised by Prof. Xiangnan He.

@@ -14,7 +14,7 @@ authors:
   - shuxianbi
 
 # Role/position
-role: PhD Student
+role: 毕书显
 
 user_groups:
   - PhD Students
@@ -28,7 +28,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Recommender System with preference shifts
+  - Recommender System with Preference Shifts
   - Causal Inference
 
 education:
@@ -67,6 +67,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Shuxian Bi (毕书显) is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. [Fuli Feng](https://fulifeng.github.io/). He earned his B.E. degree from University of Science and Technology of China, and his research interests now focus on RS-user feedback loop and causal inference. He has served as a reviewer and PC member for AAAI.
+Shuxian Bi is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. [Fuli Feng](https://fulifeng.github.io/). He earned his B.E. degree from University of Science and Technology of China, and his research interests now focus on RS-user feedback loop and causal inference. He has served as a reviewer and PC member for AAAI.
 
 

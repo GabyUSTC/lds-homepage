@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 黄宇龙
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -69,4 +69,4 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yulong Huang (黄宇龙) is a Master student in LDS...
+Yulong Huang is a Master student in LDS...

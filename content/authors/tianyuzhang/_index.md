@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 张天宇
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -74,4 +74,4 @@ email: 'tianyuz1@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Tianyu Zhang (张天宇) is a PhD student in LDS...
+Tianyu Zhang is a PhD student in LDS...

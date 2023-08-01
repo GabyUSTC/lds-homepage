@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 胡兴宇
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: 'huxy@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xingyu Hu  (胡兴宇) is currently a Master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Dr.Shuo Wang. He earned his B.E. degree from HFUT and his research interests now focus on multimodal LLMs and multimedia.
+Xingyu Hu is currently a Master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Dr.Shuo Wang. He earned his B.E. degree from HFUT and his research interests now focus on multimodal LLMs and multimedia.

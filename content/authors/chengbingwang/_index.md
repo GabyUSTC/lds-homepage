@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master student
+role: 王城冰
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'wwq197297@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Chengbing Wang (王城冰) is currently a MSc student in LDS, where he is supervised by Prof. Fuli Feng.
+Chengbing Wang is currently a MSc student in LDS, where he is supervised by Prof. Fuli Feng.

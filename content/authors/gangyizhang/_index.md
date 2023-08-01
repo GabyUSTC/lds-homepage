@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 张刚毅
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -74,6 +74,6 @@ email: 'gangyi@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Gangyi Zhang (张刚毅) is a fourth year PhD student at the School of Data Science in the University of Science and Technology of China (USTC).
+Gangyi Zhang is a fourth year PhD student at the School of Data Science in the University of Science and Technology of China (USTC).
 
 He is a member of the [Lab for Data Science (LDS)](http://data-science.ustc.edu.cn/main.htm) under the guidance of [Xiangnan He](http://staff.ustc.edu.cn/~hexn/). His research interests center around developing and improving conversational recommendation systems.

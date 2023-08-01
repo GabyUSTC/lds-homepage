@@ -9,6 +9,7 @@
 {{ $show_interests := $block.design.show_interests | default true }}
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default true }}
+{{ $show_year := $block.design.show_year | default true }}
 
 <div class="row justify-content-center people-widget">
   {{ with $block.content.title }}
@@ -64,8 +65,10 @@
           <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
           {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
           {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+          {{ $display_year := (gt .Params.year 2015)}}
+          {{ if and $show_year $display_year}}<h3>{{ .Params.year | markdownify | emojify }}</h3>{{ end }}
           {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-          {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+          {{ if and $show_interests .Params.interests}}<p style="font-size:10px">{{ delimit .Params.interests "<br>" | markdownify | emojify }}</p>{{ end }}
         </div>
       </div>
     {{ end }}

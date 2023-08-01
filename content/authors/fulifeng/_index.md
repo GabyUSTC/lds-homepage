@@ -6,7 +6,7 @@ title: Fuli Feng
 first_name: Fuli
 last_name: Feng
 
-year: 2019
+year: 3
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: 冯福利
 
 # Organizations/Affiliations
 organizations:

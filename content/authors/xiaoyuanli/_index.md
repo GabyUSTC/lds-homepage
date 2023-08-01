@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 李晓媛
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -38,6 +38,7 @@ education:
 # bio: My research interests include social cybersecurity.
 
 interests:
+  - Recommender System
   - Social Cybersecurity
 
 # Social/Academic Networking
@@ -67,4 +68,5 @@ email: 'xiaoyuanli2021@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-#San Zhang (张三) is a PhD student in LDS...
+Xiaoyuan Li is currently a MSc student in LDS, where she is supervised by Prof. Fuli Feng.
+

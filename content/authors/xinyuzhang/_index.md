@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyu Zhang 
+title: Xinyu Zhang
 
 # Full name (for SEO)
 first_name: Xinyu
@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 张新宇
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -75,4 +75,4 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xinyu Zhang (张新宇) is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr. Shuo Wang.
+Xinyu Zhang is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr. Shuo Wang.

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 郑善乐
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'slzheng@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Shanle Zheng (郑善乐) is currently a Master student at the USTC Lab for Data Science, where he is supervised by Dr.Yanbin Hao.
+Shanle Zheng is currently a Master student at the USTC Lab for Data Science, where he is supervised by Dr.Yanbin Hao.

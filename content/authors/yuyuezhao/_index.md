@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 赵愉悦
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -73,4 +73,4 @@ email: 'yyzha0@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yuyue Zhao (赵愉悦) is a PhD student in LDS...
+Yuyue Zhao is a PhD student in LDS...

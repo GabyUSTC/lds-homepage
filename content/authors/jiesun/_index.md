@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 孙杰
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'sunjie2019@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jie Sun (孙杰) is a MSc student at the USTC Lab for Data Science, where he is supervised by Prof. Xiang Wang.
+Jie Sun is a MSc student at the USTC Lab for Data Science, where he is supervised by Prof. Xiang Wang.

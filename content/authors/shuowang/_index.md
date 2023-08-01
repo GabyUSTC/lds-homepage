@@ -7,7 +7,7 @@ first_name: Shuo
 last_name: Wang
 
 # 入学年份
-year: 2021
+year: 5
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Associate Research Fellow
+role: 王硕
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -75,4 +75,4 @@ email: 'shuowangcv@ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Shuo Wang (王硕) is currently a Associate Research Fellow, School of Data Science, University of Science and Technology of China (USTC), China. His reseach interests mainly include machine learning and multimedia data analysis, such as large-scale multimedia indexing and retrieval, multimedia data embedding, and video understanding. He serves as a technical program committee (TPC) member for ACM MM, CVPR, ECCV, IJCAI, etc, and reviewer for TIP, TMM, TOMM, etc.
+Shuo Wang is currently a Associate Research Fellow, School of Data Science, University of Science and Technology of China (USTC), China. His reseach interests mainly include machine learning and multimedia data analysis, such as large-scale multimedia indexing and retrieval, multimedia data embedding, and video understanding. He serves as a technical program committee (TPC) member for ACM MM, CVPR, ECCV, IJCAI, etc, and reviewer for TIP, TMM, TOMM, etc.

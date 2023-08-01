@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: Master Student
+role: 廖佳怡
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'ljy0ustc@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jiayi Liao (廖佳怡) is a master student at the USTC Lab for Data Science, where she is supervised by Prof. Xiangnan He.
+Jiayi Liao is a master student at the USTC Lab for Data Science, where she is supervised by Prof. Xiangnan He.

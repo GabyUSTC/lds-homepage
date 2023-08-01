@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 隋勇铎
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: 'syd2019@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yongduo Sui (隋勇铎) is a PhD student at the USTC Lab for Data Science, supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interest lies in graph neural network and OOD generalization.
+Yongduo Sui is a PhD student at the USTC Lab for Data Science, supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interest lies in graph neural network and OOD generalization.

@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 赵子豪
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -71,4 +71,4 @@ email: 'hungpaan@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Zihao Zhao  (赵子豪) is a fourth-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan HE. He earned his B.E. degree from USTC and his research interests now focus on medication recommender systems. Zihao Zhao has authored one publication that have been featured in top conference TKDE.
+Zihao Zhao is a fourth-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan HE. He earned his B.E. degree from USTC and his research interests now focus on medication recommender systems. Zihao Zhao has authored one publication that have been featured in top conference TKDE.

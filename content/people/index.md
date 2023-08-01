@@ -21,61 +21,62 @@ sections:
       sort_ascending: true
 
     design:
-      show_interests: false
+      show_interests: true
       show_role: true
       show_social: true
+      show_year: true
   
   - block: markdown
     content:
       title: Alumni
       text: |-
         ## Postdoc Alumni
-        | Name   | Graduation Year     | To |
-        | :----------------- | :------------- | :------------ |
-        | Jiawei Chen (陈佳伟)|2022|浙江大学百人B研究员|
+        | Name   | Graduation Year     | To | City |
+        | :----------------- | :------------- | :------------ | :------------ |
+        | Jiawei Chen (陈佳伟)|2022|浙江大学百人B研究员| 杭州 |
         
         ## PhD Alumni
-        | Name   | Graduation Year     | To |
-        | :----------------- | :------------- | :------------ |
-        | Sihao Ding (丁斯昊)|2023|抖音|
-        | Weijian Chen (陈伟健)|2023|数据空间研究院|
-        | Jiancan Wu (吴剑灿)|2022|Postdoc@USTC|
+        | Name   | Graduation Year     | To | City |
+        | :----------------- | :------------- | :------------ | :------------ |
+        | Sihao Ding (丁斯昊)|2023|抖音|上海|
+        | Weijian Chen (陈伟健)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
+        | Jiancan Wu (吴剑灿)|2022|Postdoc@USTC|合肥|
 
         ## Master Alumni
-        | Name   | Graduation Year     | To |
-        | :----------------- | :------------- | :------------ |
-        | Ming Pei (裴铭)|2023|PhD@USTC|
-        | Shijun Li (李师军)|2023|PhD@UT Austin|
-        | Tianren Fu (傅天任)|2023|嘉兴无线电管理局|
-        | Yang Qiu (邱阳)|2023|比亚迪|
-        | Zhiyun Wan (万之蕴)|2023|交通银行|
-        | Chenxu Wang (王晨旭)|2023|快手|
-        | Shifeng Zhou (周世奉)|2023|京东|
-        | Gang Chen (陈钢)|2023|四川烟草|
-        | Keren Zheng (郑可人)|2023|比亚迪|
-        | Dian Cheng (程典)|2023|科大讯飞|
-        | Tong Ye (叶童)|2023|数据空间研究院|
-        | Hande Dong (董汉德)|2022|深圳IDEA研究院|
-        | Yanfang Wang (王燕芳)|2022|Bilibili|
-        | Huaqing Li (李华庆)|2022|北京小鹏汽车|
-        | Shunyu Jiang (江顺宇)|2022|合肥华安证券|
-        | Kuan Deng (邓宽)|2022|PhD@USTC|
+        | Name   | Graduation Year     | To | City |
+        | :----------------- | :------------- | :------------ | :------------ |
+        | Ming Pei (裴铭)|2023|PhD@USTC|合肥|
+        | Shijun Li (李师军)|2023|PhD@UT Austin|Austin, USA|
+        | Tianren Fu (傅天任)|2023|嘉兴无线电管理局|嘉兴|
+        | Yang Qiu (邱阳)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
+        | Zhiyun Wan (万之蕴)|2023|交通银行|深圳|
+        | Chenxu Wang (王晨旭)|2023|快手|北京|
+        | Shifeng Zhou (周世奉)|2023|京东|北京|
+        | Gang Chen (陈钢)|2023|四川烟草|成都|
+        | Keren Zheng (郑可人)|2023|比亚迪|西安|
+        | Dian Cheng (程典)|2023|科大讯飞|合肥|
+        | Tong Ye (叶童)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
+        | Hande Dong (董汉德)|2022|深圳IDEA研究院|深圳|
+        | Yanfang Wang (王燕芳)|2022|Bilibili|上海|
+        | Huaqing Li (李华庆)|2022|北京小鹏汽车|北京|
+        | Shunyu Jiang (江顺宇)|2022|合肥华安证券|合肥|
+        | Kuan Deng (邓宽)|2022|PhD@USTC|合肥|
 
         ## Undergraduates Alumni
-        | Name   | Graduation Year     | To |
-        | :----------------- | :------------- | :------------ |
-        | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor:Jure Leskovec|
-        | Yu Wang (王禹)|2022|PhD@UCSD, advisor:Julian McAuley|
-        | Muqun Wang (王牧群)|2022|MSc@UIUC|
-        | Tianxin Wei (魏天心)|2021|PhD@UIUC |
-        | Zilin Luo (骆子林)|2021|PhD@Singapore Management University|
+        | Name   | Graduation Year     | To | City |
+        | :----------------- | :------------- | :------------ | :------------ |
+        | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor:Jure Leskovec|San Francisco, USA|
+        | Yu Wang (王禹)|2022|PhD@UCSD, advisor:Julian McAuley|San Diego, USA|
+        | Muqun Wang (王牧群)|2022|MSc@UIUC|Champaign and Urbana, USA|
+        | Tianxin Wei (魏天心)|2021|PhD@UIUC |Champaign and Urbana, USA|
+        | Zilin Luo (骆子林)|2021|PhD@Singapore Management University|Singapore|
 
         ## RA Alumni
-        | Name   | Graduation Year     | To |
-        | :----------------- | :------------- | :------------ |
-        | Pei Cao (曹培)|2022|华院计算（上海）, 数字人算法研发|
-        | Wenqin Ye (叶文沁)|2022|MSc@NUS|
-        | Shichang Ding (丁世昌)|2021|解放军信息工程大学网安学院|
+        | Name   | Graduation Year     | To | City |
+        | :----------------- | :------------- | :------------ | :------------ |
+        | Pei Cao (曹培)|2022|华院计算, 数字人算法研发|上海|
+        | Wenqin Ye (叶文沁)|2022|MSc@NUS|Singapore|
+        | Shichang Ding (丁世昌)|2021|解放军信息工程大学网安学院|河南|
 
 # text: |-
 #   | Ph.D. & Postdoc & RA Alumni   | Master Alumni           | Undergrad Alumni              |

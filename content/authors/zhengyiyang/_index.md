@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 杨正一
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -69,4 +69,4 @@ email: 'yangzhy@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Zhengyi Yang (杨正一) is a 4th-year PhD student in LDS, under the supervision of Prof. Xiangnan He and Prof. Xiang Wang. His research interests include recommender system and generative models.
+Zhengyi Yang is a 4th-year PhD student in LDS, under the supervision of Prof. Xiangnan He and Prof. Xiang Wang. His research interests include recommender system and generative models.

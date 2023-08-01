@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: PhD Student
+role: 朱星宇
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -72,4 +72,4 @@ email: 'xyzhuxyz@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xingyu Zhu (朱星宇) is a first-year PhD student at the USTC Lab for Data Science, where he is surpervised by Prof. Xiangnan He, Dr. Shuo Wang and Dr. Yanbin Hao. He received M.Eng. degree in the Department of Electronic Engineering and Information Science(6系) from USTC in June 2020. Besides, he has been working as an algorithm engineer from 2020 to 2022 in Nanjing, Huawei.
+Xingyu Zhu is a first-year PhD student at the USTC Lab for Data Science, where he is surpervised by Prof. Xiangnan He, Dr. Shuo Wang and Dr. Yanbin Hao. He received M.Eng. degree in the Department of Electronic Engineering and Information Science(6系) from USTC in June 2020. Besides, he has been working as an algorithm engineer from 2020 to 2022 in Nanjing, Huawei.
