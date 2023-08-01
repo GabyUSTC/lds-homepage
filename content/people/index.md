@@ -67,6 +67,7 @@ sections:
         | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor:Jure Leskovec|
         | Yu Wang (王禹)|2022|PhD@UCSD, advisor:Julian McAuley|
         | Muqun Wang (王牧群)|2022|MSc@UIUC|
+        | Tianxin Wei (魏天心)|2021|PhD@UIUC |
         | Zilin Luo (骆子林)|2021|PhD@Singapore Management University|
 
         ## RA Alumni
