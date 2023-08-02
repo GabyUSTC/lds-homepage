@@ -15,7 +15,7 @@ sections:
           image:
             filename: 2022_sept.JPG
             filters:
-              brightness: 0.7
+              brightness: 0.9
           position: center
           color: '#666'
         link:
