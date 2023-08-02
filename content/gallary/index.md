@@ -14,7 +14,7 @@ sections:
         ![](./gallary/2022_sept.JPG)
         ![](./gallary/2021_autumn.jpeg)
         ![](./gallary/football.jpeg)
-        ![](./gallary/dinner_1.jpg)
+        ![](./gallary/dinner.jpeg)
         ![](./gallary/2021_may.jpeg)
     # design:
     #   columns: '1'
