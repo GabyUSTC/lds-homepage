@@ -12,8 +12,8 @@ date: '2023-01-01T00:00:00Z'
 doi: ''
 publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['2']
-publication: In IEEE Transactions on Knowledge and Data Engineering 
-publication_short: In IEEE Transactions on Knowledge and Data Engineering 
+publication: In IEEE Transactions on Knowledge and Data Engineering (TKDE, major revision) 
+publication_short: In IEEE Transactions on Knowledge and Data Engineering (TKDE, major revision) 
 
 abstract: ""
 featured: true
