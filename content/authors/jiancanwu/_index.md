@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: 吴剑灿
+role: 吴剑灿 博士后
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:

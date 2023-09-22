@@ -7,7 +7,7 @@ first_name: Yanbin
 last_name: Hao
 
 # 入学年份
-year: 2021
+year: 5
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -17,7 +17,7 @@ authors:
 superuser: false
 
 # Role/position 
-role: 郝艳宾
+role: 郝艳宾 副研究员
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:

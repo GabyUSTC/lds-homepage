@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 冯福利
+role: 冯福利 教授
 
 # Organizations/Affiliations
 organizations:

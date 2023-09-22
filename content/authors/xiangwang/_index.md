@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 王翔
+role: 王翔 教授
 
 # Organizations/Affiliations
 organizations:

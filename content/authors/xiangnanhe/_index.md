@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 何向南
+role: 何向南 教授
 
 # Organizations/Affiliations
 organizations:
