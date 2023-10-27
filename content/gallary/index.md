@@ -9,10 +9,10 @@ sections:
     content:
       title: Gallery
       text: |-
-        ![](./gallary/2023_autumn_1.jpg)
-        ![](./gallary/2023_autumn_2.jpg)
-        ![](./gallary/2023_autumn_3.jpg)
-        ![](./gallary/2023_autumn_4.jpg)
+        ![](./gallary/2023_autumn_1.jpeg)
+        ![](./gallary/2023_autumn_2.jpeg)
+        ![](./gallary/2023_autumn_3.jpeg)
+        ![](./gallary/2023_autumn_4.jpeg)
         ![](./gallary/2023_grad_1.jpg)
         ![](./gallary/2023_grad_2.jpg)
         ![](./gallary/2022_sept.JPG)
