@@ -38,6 +38,9 @@ sections:
         ## PhD Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
+        | Chongming Gao (高崇铭)|2023|Postdoc@USTC|合肥|
+        | Jiajia Chen (陈佳佳)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
+        | Yuan Gao (高远)|2023|阿里达摩院|杭州|
         | Sihao Ding (丁斯昊)|2023|抖音|上海|
         | Weijian Chen (陈伟健)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
         | Jiancan Wu (吴剑灿)|2022|Postdoc@USTC|合肥|
@@ -65,11 +68,12 @@ sections:
         ## Undergraduates Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
-        | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor:Jure Leskovec|San Francisco, USA|
-        | Yu Wang (王禹)|2022|PhD@UCSD, advisor:Julian McAuley|San Diego, USA|
+        | Gao Fengyu (高凤舆)|2022|PhD@PSU, advisor: Jing Yang|Pennsylvania, USA|
+        | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor: Jure Leskovec|San Francisco, USA|
+        | Yu Wang (王禹)|2022|PhD@UCSD, advisor: Julian McAuley|San Diego, USA|
         | Muqun Wang (王牧群)|2022|MSc@UIUC|Champaign and Urbana, USA|
-        | Tianxin Wei (魏天心)|2021|PhD@UIUC |Champaign and Urbana, USA|
-        | Zilin Luo (骆子林)|2021|PhD@Singapore Management University|Singapore|
+        | Tianxin Wei (魏天心)|2021|PhD@UIUC, advisor: Jingrui He|Champaign and Urbana, USA|
+        | Zilin Luo (骆子林)|2021|PhD@SMU, advisor: Qianru Sun|Singapore|
 
         ## RA Alumni
         | Name   | Graduation Year     | To | City |

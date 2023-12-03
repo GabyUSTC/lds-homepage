@@ -7,7 +7,7 @@ first_name: Chongming
 last_name: Gao
 
 # 入学年份
-year: 2020
+year: 7
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -17,11 +17,11 @@ authors:
 superuser: false
 
 # Role/position 
-role: 高崇铭
+role: 高崇铭 博士后
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - PhD Students
+  - Advisors
 
 # Organizations/Affiliations 自己的学院
 organizations:

@@ -7,7 +7,7 @@ first_name: Xun
 last_name: Deng
 
 # 入学年份
-year: 2021
+year: 2023
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:

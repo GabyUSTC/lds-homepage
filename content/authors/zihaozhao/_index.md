@@ -7,7 +7,7 @@ first_name: Zihao
 last_name: Zhao
 
 # 入学年份
-year: 2020
+year: 2022
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
