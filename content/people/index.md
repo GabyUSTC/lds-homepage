@@ -38,6 +38,8 @@ sections:
         ## PhD Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
+        | Yang Zhang (张洋)|2024|Postdoc@NUS, Advisor: Tat-Seng Chua|Singapore|
+        | Yi Tan (谭懿)|2024|Postdoc@NTU, Advisor: Hanwang Zhang|Singapore|
         | Chongming Gao (高崇铭)|2023|Postdoc@USTC|合肥|
         | Jiajia Chen (陈佳佳)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
         | Yuan Gao (高远)|2023|阿里达摩院|杭州|
