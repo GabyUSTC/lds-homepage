@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Junkang Wu
+title: Mingze Wang
 
 # Full name (for SEO)
-first_name: Junkang
-last_name: Wu
+first_name: Mingze
+last_name: Wang
 
 # 入学年份
 year: 2023
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
-  - junkangwu
+  - mingzewang
 
 # Is this the primary user of the site? 
 superuser: false
 
 # Role/position 
-role: 吴俊康
+role: 王铭泽
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
@@ -26,23 +26,27 @@ user_groups:
 # Organizations/Affiliations 自己的学院
 organizations:
   - name: School of Cyber Science and Technology
-    url: ''
+    url: 'https://cybersec.ustc.edu.cn/main.htm'
 
 education:
    courses:
-     - course: PhD Candidate in Cyberspace Security
+     - course: PhD in Computer Science
        institution: University of Science and Technology of China
-       year: 2021-Now
+       year: 2023-Now
+     - course: Master in Computer Science
+       institution: Georgetown University
+       year: 2019-2021
      - course: BEng in Computer Science
-       institution: Zhejiang University of Technology
-       year: 2017-2021
+       institution: Beihang University
+       year: 2015-2019
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include deep reinforcement learning, recommender system and large language model.
 
 interests:
   - Recommender System
-  - Contrastive Learning
+  - Large Language Model
+  - Deep Reinforcement Learning
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,10 +57,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jkwu0909@mail.ustc.edu.cn,'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=deBwV5oAAAAJ&hl=zh-CN&oi=ao
+    link: 'gnaweinre@mail.ustc.edu.cn,'
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -65,10 +66,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jkwu0909@mail.ustc.edu.cn'
+email: 'gnaweinre@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Junkang Wu is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interests includes machine learning, data mining, self-supervised learning, particularly in recommendation system, and graph learning.
+Mingze Wang is a first-year Ph.D. student at the USTC Lab for Data Science, where Prof. Xiangnan He and Prof. Fuli Feng supervise him. He received a Master's Degree in computer science from Georgetown University, United States, and a Bachelor's Degree in computer science from Beihang University.
