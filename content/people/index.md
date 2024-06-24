@@ -38,6 +38,8 @@ sections:
         ## PhD Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
+        | Yongduo Sui (隋勇铎)|2024|腾讯|深圳|
+        | Changyi Xiao (肖昌义)|2024|Postdoc@复旦, Advisor: Yixin Cao|上海|
         | [Yang Zhang (张洋)](https://scholar.google.com/citations?user=M9NcazMAAAAJ&hl=en)|2024|Postdoc@NUS, Advisor: Tat-Seng Chua|Singapore|
         | Yi Tan (谭懿)|2024|Postdoc@NTU, Advisor: Hanwang Zhang|Singapore|
         | Chongming Gao (高崇铭)|2023|Postdoc@USTC|合肥|
@@ -50,6 +52,10 @@ sections:
         ## Master Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
+        | Jianbai Ye (叶坚白)|2024|沐言智语|北京|
+        | Zeyu Yang (杨泽宇)|2024|蒙玺投资|上海|
+        | Xinyu Zhang (张新宇)|2024|数据空间研究院|合肥|
+        | Jiarui Yu (于佳睿)|2024|腾讯|深圳|
         | Ming Pei (裴铭)|2023|PhD@USTC|合肥|
         | Shijun Li (李师军)|2023|PhD@UT Austin|Austin, USA|
         | Tianren Fu (傅天任)|2023|嘉兴无线电管理局|嘉兴|
@@ -70,7 +76,12 @@ sections:
         ## Undergraduates Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
-        | Gao Fengyu (高凤舆)|2022|PhD@PSU, advisor: Jing Yang|Pennsylvania, USA|
+        | Yikang Yue (乐亦康)|2024|PhD@UIUC, advisor: Jian Huang|Champaign and Urbana, USA|
+        | Changsheng Wang (王昌盛)|2024|PhD@MSU, advisor: Sijia Liu|Michigan, USA|
+        | Hanyun Yin (殷含蕴)|2024|PhD@TAMU|College Station, USA|
+        | Yi Jing (景怡)|2024|MSc@Stanford|San Francisco, USA|
+        | Chun Feng (冯椿)|2024|MSc@UIUC|Champaign and Urbana, USA|
+        | Fengyu Gao (高凤舆)|2022|PhD@PSU, advisor: Jing Yang|Pennsylvania, USA|
         | Yingxin Wu (吴颖馨)|2022|PhD@Stanford, advisor: Jure Leskovec|San Francisco, USA|
         | Yu Wang (王禹)|2022|PhD@UCSD, advisor: Julian McAuley|San Diego, USA|
         | Muqun Wang (王牧群)|2022|MSc@UIUC|Champaign and Urbana, USA|
