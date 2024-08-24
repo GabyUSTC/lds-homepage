@@ -7,7 +7,7 @@ first_name: Jinda
 last_name: Lu
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,24 +21,24 @@ role: 卢金达
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Information Science and Technology
-    url: 'https://sist.ustc.edu.cn/main.htm'
+  - name: School of Cyber Science and Technology
+    url: 'https://cybersec.ustc.edu.cn/main.htm'
 
 education:
    courses:
 #     - course: PhD in Artificial Intelligence
 #      institution: Stanford University
 #      year: 2012
-     - course: MEng in Information and Communication Engineering
+     - course: PhD in Cyberspace Security
        institution: University of Science and Technology of China
-       year: 2022
+       year: 2022-Now
      - course: BSc in Computer Science
        institution: Jilin University
-       year: 2018
+       year: 2018-2022
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,7 +46,7 @@ education:
 interests:
   - Artificial Intelligence
   - Multi-Media
-  - Few-Shot Learning
+  - Vision Languange Models
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,9 +58,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lujd@mail.ustc.edu.cn,'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/yourgooglescholar
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ZBfFoEMAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,10 +69,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lujd@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Jinda Lu is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr. Shuo Wang.
+Jinda Lu is currently a third-year (硕博连读第三年) PhD student in LDS, where he is supervised by Prof. Xiang Wang and Dr. Shuo Wang. His research focus on multimedia and vision-languange models.

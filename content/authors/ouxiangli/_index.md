@@ -7,7 +7,7 @@ first_name: Ouxiang
 last_name: Li
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,16 +21,16 @@ role: 李讴翔
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Information Science and Technology
-    url: 'https://sist.ustc.edu.cn/main.htm'
+  - name: School of Artificial Intelligence and Data Science
+    url: 'https://saids.ustc.edu.cn/main.htm'
 
 education:
    courses:
-     - course: MEng in Information and Communication Engineering
+     - course: PhD in Electronic Information
        institution: University of Science and Technology of China
        year: 2022-Now
      - course: BSc in Electronic Information Engineering
@@ -43,6 +43,7 @@ education:
 interests:
   - Multimedia
   - Diffusion Models
+  - Trustworthy AI
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,4 +72,4 @@ email: 'lioox@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Ouxiang Li is currently a Master student in LDS, where he is supervised by Prof. Xiangnan He and Dr.Yanbin Hao. His research focus on Multimedia and Diffusion Models.
+Ouxiang Li is a third-year (硕博连读第三年) PhD student in LDS, where he is supervised by Prof. Fuli Feng and Dr. Yanbin Hao. His research focus on multimedia, diffusion models, and trustworthy AI.

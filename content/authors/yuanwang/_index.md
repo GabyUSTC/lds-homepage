@@ -7,7 +7,7 @@ first_name: Yuan
 last_name: Wang
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,32 +21,32 @@ role: 汪远
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Institute of Advanced Technology
-    url: 'https://iat.ustc.edu.cn/iat/index.html'
+  - name: School of Cyber Science and Technology
+    url: 'https://cybersec.ustc.edu.cn/main.htm'
 
 education:
    courses:
-#     - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-     - course: MEng in Electronic and Information Engineering
-       institution: University of Science and Technology of China
-       year: 2022
-     - course: BSc in Information and Computing Science
-       institution: Northwest A&F University
-       year: 2018
+    - course: PhD in Cyberspace Security
+      institution: Stanford University
+      year: 2024 - now
+    - course: MEng in Electronic and Information Engineering
+      institution: University of Science and Technology of China
+      year: 2022 -2024
+    #  - course: BSc in Information and Computing Science
+    #    institution: Northwest A&F University
+    #    year: 2018
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence Generative Content
   - Multi-Media
-  - Image Generation
+  - Vision Content Generation
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,10 +69,10 @@ interests:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'wy_net1001@163.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yuan Wang is currently a Master student in LDS, where she is supervised by Prof. Xiangnan He and Dr. Yanbin Hao.
+Yuan Wang is a PhD student at the USTC Lab for Data Science, where she is supervised by Dr. Yanbin Hao and Prof. Xiang Wang. Her research interest lies in Artificial Intelligence Generative Content and Multi-Media.

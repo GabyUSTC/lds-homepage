@@ -41,8 +41,8 @@ education:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Recommender System
-  - Contrastive Learning
+  - LLM Alignment 
+  - Robust Optimization
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,4 +71,4 @@ email: 'jkwu0909@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Junkang Wu is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interests includes machine learning, data mining, self-supervised learning, particularly in recommendation system, and graph learning.
+Junkang Wu is a forth-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. His research interests includes alignment of large language models, self-supervised learning, and distributionally robust optimization. For his most recent updates and work, please visit https://junkangwu.github.io/.

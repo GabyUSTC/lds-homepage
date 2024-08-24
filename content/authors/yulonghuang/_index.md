@@ -7,7 +7,7 @@ first_name: Yulong
 last_name: Huang
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,12 +21,12 @@ role: 黄宇龙
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Information Science and Technology
-    url: 'https://sist.ustc.edu.cn/main.htm'
+  - name: School of Cyber Science and Technology
+    url: 'https://cybersec.ustc.edu.cn/main.htm'
 
 education:
    courses:
@@ -38,8 +38,8 @@ education:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
   - Information Retrieval
+  - Social Bot
   - Recsys
 
 # Social/Academic Networking
@@ -69,4 +69,5 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yulong Huang is a Master student in LDS...
+Yulong Huang (黄宇龙) is a Third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Fuli Feng. He earned his B.E. degree from Taishan College of Shandong University and his research interests now focus on recommender systems and social robots.
+

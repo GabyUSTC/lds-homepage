@@ -7,7 +7,7 @@ first_name: Chengpeng
 last_name: Li
 
 # 入学年份
-year: 2021
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,30 +21,32 @@ role: 李成鹏
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Data Science
+  - name: School of Artificial Intelligence and Data Science
     url: ''
 
 education:
    courses:
-     - course: Master Students in School of Data Science
+     - course: PhD Candidate in Electronic Information Engineering
        institution: University of Science and Technology of China
-       year: 2021-Now
-     - course: BEng in Communication Engineering
+       year: 2022-Now
+     - course: BSc in Information and Communication Engineering
        institution: University of Electronic Science and Technology of China
        year: 2017-2021
     
+    
+
+
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Recommender System
-  - Reinforcement Learning
-  - Large language Model
+  - Large Language Model for Reasoning
+  - Large Language Model Alignment
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,12 +55,9 @@ interests:
 
 # Google Scholar如果没有可以注释后面三行
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:chengpengli@mail.ustc.edu.cn,'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/yourgooglescholar
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=5pidFF8AAAAJ&hl=zh-CN
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,4 +72,4 @@ email: 'chengpengli@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Chengpeng Li is a second-year Master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiang Wang. His research interests includes Recommender System, Reinforcement Learning and Large language Model.
+Chengpeng Li is a four-year (硕博连读第四年) PhD student at the USTC Lab for Data Science, where she is supervised by Prof. Xiang Wang. His research interests include  large language model for reasoning and large language model alignment.

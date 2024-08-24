@@ -7,7 +7,7 @@ first_name: Muchen
 last_name: Yang
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,7 +21,7 @@ role: 杨沐晨
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:

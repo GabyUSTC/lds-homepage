@@ -7,7 +7,7 @@ first_name: Sihang
 last_name: Li
 
 # 入学年份
-year: 2021
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,7 +21,7 @@ role: 李思杭
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
@@ -30,7 +30,7 @@ organizations:
 
 education:
    courses:
-     - course: Master Candidate in Information and Communication Engineering
+     - course: PhD in Intelligent Science and Technology
        institution: University of Science and Technology of China
        year: 2021-Now
      - course: BEng in Electronic Information Engineering
@@ -43,6 +43,7 @@ education:
 interests:
   - Graph Representation Learning
   - Multi-modal LM
+  - AI for Science
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,4 +72,4 @@ email: 'sihang0520@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Sihang Li is a third-year master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. He earned his B.E. degree from USTC and his research interests now focus on graph representation learning and multi-modal LM.
+Sihang Li is a forth-year PhD student at the USTC Lab for Data Science, where he is supervised by Prof. Xiang Wang and Prof. Xiangnan He. He earned his B.E. degree from USTC and his research interests now focus on graph representation learning, large language model, and AI for science.

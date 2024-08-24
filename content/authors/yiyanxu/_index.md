@@ -7,7 +7,7 @@ first_name: Yiyan
 last_name: Xu
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,16 +21,16 @@ role: 许艺龑
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Data Science
-    url: 'http://sds.ustc.edu.cn/main.htm'
+  - name: School of Cyber Science and Technology
+    url: ''
 
 education:
    courses:
-     - course: MEng in Electronic and Information Engineering
+     - course: PhD Candidate in Cyberspace Security
        institution: University of Science and Technology of China
        year: 2022-Now
      - course: BSc in Mathematics and Applied Mathematics
@@ -42,6 +42,8 @@ education:
 
 interests:
   - Recommender System
+  - Generative Recommendation
+  - Personalized Content Generation
   - Diffusion Models
 
 # Social/Academic Networking
@@ -54,9 +56,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yiyanxu24@gmail.com,'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/yourgooglescholar
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=D3EVI7YAAAAJ&hl=zh-CN&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget. 如果需要放cv可以发给我
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,4 +73,4 @@ email: 'yiyanxu24@gmail.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Yiyan Xu is a Master student in LDS, where she is supervised by Prof. Fuli Feng. Her research interest lies in Recommender Systems and Diffusion Models.
+Yiyan Xu is a third-year (硕博连读第三年) PhD student at the USTC Lab for Data Science, where she is supervised by Prof. Fuli Feng. Her research interests include recommender system, generative recommendation, personalized content generation, and diffusion models.

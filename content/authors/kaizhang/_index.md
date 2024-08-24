@@ -7,7 +7,7 @@ first_name: Kai
 last_name: Zhang
 
 # 入学年份
-year: 2022
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:
@@ -21,16 +21,16 @@ role: 张开
 
 # user_groups 从 (Advisors, PhD Students, Master Students, Undergraduate) 从这四个里面选
 user_groups:
-  - Master Students
+  - PhD Students
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: Institute of Advanced Technology
-    url: 'https://iat.ustc.edu.cn/iat/index.html'
+  - name: School of Cyber Science and Technology
+    url: 'https://cybersec.ustc.edu.cn/main.htm'
 
 education:
    courses:
-     - course: MEng in Electronic Information
+     - course: PhD in Electronic Information
        institution: University of Science and Technology of China
        year: 2022-Now
      - course: BSc in Electronic Information
@@ -71,4 +71,4 @@ email: 'kaizhang99@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Kai Zhang is a Master student in LDS.
+Kai Zhang is a PhD student in LDS where he is supervised by Prof. Xiang Wang and Prof. Xiangnan He. 
