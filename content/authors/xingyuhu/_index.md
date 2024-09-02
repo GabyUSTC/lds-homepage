@@ -25,8 +25,8 @@ user_groups:
 
 # Organizations/Affiliations 自己的学院
 organizations:
-  - name: School of Data Science
-    url: 'https://sds.ustc.edu.cn/main.htm'
+  - name: School of Artificial Intelligence and Data Science
+    url: 'https://saids.ustc.edu.cn/main.htm'
 
 education:
    courses:
@@ -41,9 +41,9 @@ education:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Multimodal LLMs
-  - Multimedia 
-  - Information Retrieval
+  - Recommender Systems
+  - Large Language Models
+  - Retrieval Augmented Generation
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,4 +72,4 @@ email: 'huxy@mail.ustc.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xingyu Hu is currently a Master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Dr.Shuo Wang. He earned his B.E. degree from HFUT and his research interests now focus on multimodal LLMs and multimedia.
+Xingyu Hu is currently a Master student at the USTC Lab for Data Science, where he is supervised by Prof. Xiangnan He and Prof. Xiang Wang. He earned his B.E. degree from HFUT and his research interests now focus on LLM4Rec and Retrieval Augmented Generation.

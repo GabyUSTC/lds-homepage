@@ -41,8 +41,8 @@ education:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Recommender System
   - LLM agent
-  - AI for social cybersecurity
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:k925238839@126.com,'
+    link: 'mailto:kongxy@mail.ustc.edu.cn,'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/yourgooglescholar
@@ -65,10 +65,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: k925238839@126.com'
+email: kongxy@mail.ustc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Xiaoyu Kong is currently a Master student in LDS, where he is supervised by Prof.Xiangnan He.
+Xiaoyu Kong is currently a Master student in LDS, where he is supervised by Prof.Xiang Wang.
