@@ -7,7 +7,7 @@ first_name: Junxiang
 last_name: Qiu
 
 # 入学年份
-year: 2023
+year: 2024
 
 # Username (this should match the folder name)，如果叫张三那么就是sanzhang
 authors:

@@ -38,7 +38,7 @@ sections:
         ## PhD Alumni
         | Name   | Graduation Year     | To | City |
         | :----------------- | :------------- | :------------ | :------------ |
-        | Yongduo Sui (隋勇铎)|2024|腾讯|深圳|
+        | Yongduo Sui (隋勇铎)|2024|华为|深圳|
         | Changyi Xiao (肖昌义)|2024|Postdoc@复旦, Advisor: Yixin Cao|上海|
         | [Yang Zhang (张洋)](https://scholar.google.com/citations?user=M9NcazMAAAAJ&hl=en)|2024|Postdoc@NUS, Advisor: Tat-Seng Chua|Singapore|
         | Yi Tan (谭懿)|2024|Postdoc@NTU, Advisor: Hanwang Zhang|Singapore|
