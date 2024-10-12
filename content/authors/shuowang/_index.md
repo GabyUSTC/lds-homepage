@@ -31,10 +31,10 @@ organizations:
 education:
    courses:
      - course: PhD in Signal and Information Processing
-       institution: University of Science and Technology of China
+       institution: Hefei University of Technology (HFUT)
        year: 2015-2021
      - course: BSc in Electronics Engineering
-       institution: University of Science and Technology of China
+       institution: Hefei University of Technology (HFUT)
        year: 2011-2015
 
 # Short bio (displayed in user profile at end of posts)

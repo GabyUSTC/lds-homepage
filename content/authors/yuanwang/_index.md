@@ -31,7 +31,7 @@ organizations:
 education:
    courses:
     - course: PhD in Cyberspace Security
-      institution: Stanford University
+      institution: University of Science and Technology of China
       year: 2024 - now
     - course: MEng in Electronic and Information Engineering
       institution: University of Science and Technology of China
@@ -54,10 +54,10 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 # Google Scholar如果没有可以注释后面三行
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:lujd@mail.ustc.edu.cn,'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:wy_net1001@163.com,'
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/yourgooglescholar

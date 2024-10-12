@@ -41,7 +41,7 @@ education:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Content Generation
+  - Generation Acceleration
   - Diffusion Model
   - Artificial Intelligence
 
