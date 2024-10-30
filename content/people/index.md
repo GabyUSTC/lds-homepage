@@ -45,7 +45,7 @@ sections:
         | Chongming Gao (高崇铭)|2023|Postdoc@USTC|合肥|
         | Jiajia Chen (陈佳佳)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
         | Yuan Gao (高远)|2023|阿里达摩院|杭州|
-        | Sihao Ding (丁斯昊)|2023|抖音|上海|
+        | Sihao Ding (丁斯昊)|2023|TikTok of ByteDance|上海|
         | Weijian Chen (陈伟健)|2023|[数据空间研究院](http://www.idata.ah.cn/)|合肥|
         | Jiancan Wu (吴剑灿)|2022|Postdoc@USTC|合肥|
 
